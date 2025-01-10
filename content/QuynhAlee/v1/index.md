@@ -1,4 +1,4 @@
 ---
-title: "Ngắm vòng 1 của Quỳnh Alee"
-categories: Quỳnh Alee
+title: "Quỳnh Alee Part 1"
+categories: Quỳnh Alee, Vòng 1
 ---

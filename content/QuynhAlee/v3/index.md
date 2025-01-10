@@ -1,4 +1,4 @@
 ---
-title: "Ngắm vòng 3 của Quỳnh Alee"
-categories: Quỳnh Alee
+title: "Quỳnh Alee Part 2"
+categories: Quỳnh Alee, Vòng 3, Body
 ---
