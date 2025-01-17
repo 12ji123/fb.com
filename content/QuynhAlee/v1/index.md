@@ -1,4 +1,4 @@
 ---
 title: "Quỳnh Alee Part 1"
-categories: Quỳnh Alee, Vòng 1
+categories: Quỳnh Alee
 ---
